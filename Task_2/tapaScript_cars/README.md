@@ -39,3 +39,4 @@ npm run dev
 > ![DevTools](public/images/react_devtools.png)
 
 ## Live project
+[View Live Project](https://learn-react-with-tapa-script-72wh.vercel.app/)
