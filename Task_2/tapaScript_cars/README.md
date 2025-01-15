@@ -14,6 +14,18 @@ git sparse-checkout init --cone
 
 git sparse-checkout set Task_2/tapaScript_cars
 
+cd Task_2/tapaScript_cars
 
 ```
+Then You need to install necessary modules using 
+```bash
+npm install
 
+```
+Then you can run the project 
+
+```bash
+npm run dev
+```
+## UI Design
+> ![UI design](public/images/uI.png)
