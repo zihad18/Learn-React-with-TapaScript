@@ -9,11 +9,11 @@ const Cars = [
   ];
 function CarList(){
     return (
-        <div>
-           <ul className="list-none">
+        <div className="py-4">
+           <ul className="list-none grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {
                 Cars.map((car)=>(
-                    <li key={car.id}>
+                    <li key={car.id} className="">
                         <CarItem car={car}/>
                     </li>
                 ))

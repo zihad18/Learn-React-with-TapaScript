@@ -1,7 +1,8 @@
 function Check() {
   return (
-    <div>
+    <div className="inline-block">
       <input type="checkbox" />
+      <label>Show Premium only</label>
     </div>
   );
 }

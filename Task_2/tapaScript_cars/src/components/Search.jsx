@@ -1,7 +1,7 @@
 function Search(){
     return(
         <div>
-            Search
+            <input className="border " type="text" placeholder="Search cars..."/>
         </div>
     )
 }
