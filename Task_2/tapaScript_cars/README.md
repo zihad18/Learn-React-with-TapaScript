@@ -1,8 +1,19 @@
-# React + Vite
+# TapaScript Cars
+In this amazing project we will create a simple UI about some car's data but on the way we will understand the react component's basics. Like how to break down the components and other important things.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## How to run this project
+If you interested to run this projects on your own local machine. Welcome bro!! here are the step by step guideline to run this project.
+you have run following commands only.
 
-Currently, two official plugins are available:
+```bash
+git clone --depth=1 https://github.com/zihad18/Learn-React-with-TapaScript.git
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+cd Learn-React-with-TapaScript
+
+git sparse-checkout init --cone
+
+git sparse-checkout set Task_2/tapaScript_cars
+
+
+```
+
