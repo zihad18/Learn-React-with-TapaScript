@@ -29,3 +29,13 @@ npm run dev
 ```
 ## UI Design
 > ![UI design](public/images/uI.png)
+
+## Components Breakdown Diagram:
+> ![Component Breakdown](public/images/Breakdown.png)
+## Components Hierarchy:
+> ![Component hierarchy](public/images/component_hierarchy.png)
+
+## Component Hierarchy in the React Dev Tool:
+> ![DevTools](public/images/react_devtools.png)
+
+## Live project
