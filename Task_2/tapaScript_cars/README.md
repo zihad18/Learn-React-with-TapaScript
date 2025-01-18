@@ -1,5 +1,5 @@
 # TapaScript Cars
-In this amazing project we will create a simple UI about some car's data but on the way we will understand the react component's basics. Like how to break down the components and other important things.
+In this amazing project we will create a simple UI about some car's data but on the way we will understand the react component's basics. Like how to break down the components and other important things. Now as Task updated I added state and props in this project.
 
 ## How to run this project
 If you interested to run this projects on your own local machine. Welcome bro!! here are the step by step guideline to run this project.
@@ -34,6 +34,8 @@ npm run dev
 > ![Component Breakdown](public/images/Breakdown.png)
 ## Components Hierarchy:
 > ![Component hierarchy](public/images/component_hierarchy.png)
+## Components identified state and props Hierarchy:
+> ![Component hierarchy](public/images/identifingStateProps.png)
 
 ## Component Hierarchy in the React Dev Tool:
 > ![DevTools](public/images/react_devtools.png)
