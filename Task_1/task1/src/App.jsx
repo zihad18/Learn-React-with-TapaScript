@@ -1,7 +1,7 @@
 import Printer from './Printer'
 
 function App() {
- 
+  
 
   return (
     <>
