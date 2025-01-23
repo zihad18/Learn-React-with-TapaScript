@@ -1,11 +1,11 @@
-import Printer from './Printer'
-
+import UserInfo from './components/UserInfo'
 function App() {
   
 
   return (
     <>
-    <Printer />
+    <UserInfo />
+    
     </>
   )
 }
