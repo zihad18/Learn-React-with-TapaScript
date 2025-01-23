@@ -1,8 +1,10 @@
-function AddUser() {
+import PropType from 'prop-types';
+function AddUser({addUser}) {
     return (
-        <div>
-            <h1>Add User</h1>
-        </div>
+        <button onClick={addUser}>+</button>
     )
+}
+AddUser.propTypes = {
+    addUser: PropType.func.isRequired,
 }
 export default AddUser;
