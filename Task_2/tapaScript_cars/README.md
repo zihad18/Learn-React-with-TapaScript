@@ -31,11 +31,11 @@ npm run dev
 > ![UI design](public/images/uI.png)
 
 ## Components Breakdown Diagram:
-> ![Component Breakdown](public/images/Breakdown.png)
+> ![Component Breakdown](./public/images/Breakdown.png)
 ## Components Hierarchy:
-> ![Component hierarchy](public/images/component_hierarchy.png)
+> ![Component hierarchy](./public/images/component_hierarchy.png)
 ## Components identified state and props Hierarchy:
-> ![Component hierarchy](public/images/identifingStateProps.png)
+> ![Component hierarchy](./public/images/identifingStateProps.png)
 
 ## Component Hierarchy in the React Dev Tool:
 > ![DevTools](public/images/react_devtools.png)
