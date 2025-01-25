@@ -1,6 +1,7 @@
 import UserList from './UserList';
 import UserStatus from './UserStatus';
 import AddUser from './AddUser';
+import Header from './Header';
 import { useState } from 'react';
 function UserInfo() {
     const InitialUsers = [
@@ -51,6 +52,7 @@ function UserInfo() {
       
     return (
       <div>
+        <Header />
         <UserStatus userNumber={users.length} />
         <AddUser addUser={addNewUser} />
         <UserList users={users} />

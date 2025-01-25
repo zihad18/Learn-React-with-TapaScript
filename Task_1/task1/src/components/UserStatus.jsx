@@ -3,7 +3,7 @@ function UserStatus({ userNumber }) {
   
   return (
     <div>
-        <h1>{userNumber}</h1>
+        <h1 className='text-2xl font-bold mb-6'>{userNumber}</h1>
     </div>
   );
 }
