@@ -40,14 +40,14 @@ npm run dev
 ```
 ## All the Diagram
 > **UI Design**  
-![UI design](public/images/UserUI.png) 
+![UI design](Task_1\task1\public\UserUI.png) 
 You can explore the Figma file of this design [here](https://www.figma.com/design/MuFAYuptrgEh9vGnMomYUK/TapaScript-Task4?node-id=1-2&t=CGRBRXuehjxKzWMM-1).
 
 > **UI Breakdown**  
-![UI Breakdown](public/images/UIbreakdown.png)
+![UI Breakdown](Task_1\task1\public\UserUI.png)
 
 > **Component Hierarchy**  
-![Component hierarchy](public/images/componentHierarchy.png)
+![Component hierarchy](Task_1\task1\public\componentHierarchy.png)
 
 ## Live project
 [View Live Project](https://learn-react-with-tapa-script-git-main-zihad18s-projects.vercel.app/)
