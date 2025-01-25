@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-    <UserInfo />
+    <UserInfo className=""/>
     
     </>
   )

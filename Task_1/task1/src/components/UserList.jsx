@@ -7,7 +7,7 @@ function UserList({users}) {
     });
 
     return (
-        <div>
+        <div className='ml-[54px] mt-[60px] grid grid-cols-3 gap-x-[113px] gap-y-[116px] pb-8'>
             {row}
         </div>
     );
