@@ -3,7 +3,7 @@ This is JSX based task where I have showcase my Jsx skill 🤭. Here I am trying
 ## Table of Contents
 
 - [Run it Locally](#how-you-also-can-run-this-project-on-your-own-machine)
-- [Screenshots](#All-the-Diagram)
+- [All the diagrams](#All-the-Diagram)
 - [Live project](#Live-project)
 
 
@@ -39,12 +39,15 @@ Finally, run the project:
 npm run dev
 ```
 ## All the Diagram
-> UI Design ![UI design](public/images/UserUI.png) 
-You can explore the figma file of this design [Figma Design](https://www.figma.com/design/MuFAYuptrgEh9vGnMomYUK/TapaScript-Task4?node-id=1-2&t=CGRBRXuehjxKzWMM-1)
+> **UI Design**  
+![UI design](public/images/UserUI.png) 
+You can explore the Figma file of this design [here](https://www.figma.com/design/MuFAYuptrgEh9vGnMomYUK/TapaScript-Task4?node-id=1-2&t=CGRBRXuehjxKzWMM-1).
 
-> UI breakdown [UI Breakdown](public/images/UIbreakdown.png) 
+> **UI Breakdown**  
+![UI Breakdown](public/images/UIbreakdown.png)
 
-> Component Hierarchy [Component hierarchy](public/images/componentHierarchy.png)
+> **Component Hierarchy**  
+![Component hierarchy](public/images/componentHierarchy.png)
 
 ## Live project
 [View Live Project](https://learn-react-with-tapa-script-git-main-zihad18s-projects.vercel.app/)
