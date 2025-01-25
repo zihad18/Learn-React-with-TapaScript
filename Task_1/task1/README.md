@@ -1,11 +1,52 @@
-# Challenges what I encountered to fulfill this task
+#  Task 4
+This is JSX based task where I have showcase my Jsx skill 🤭. Here I am trying to show some user data from array and also some augmented user if the client press + button
+## Table of Contents
 
-This project seems very easy and It will help you to familiarize with to environment and other segments. That's why this project is must do project for me.
+- [Run it Locally](#how-you-also-can-run-this-project-on-your-own-machine)
+- [Screenshots](#All-the-Diagram)
+- [Live project](#Live-project)
 
-I faced some issues regarding tailwindcss part instead of installing tailwind for vite project I install it for cli install and then the desire output I cannot feel.
 
-After some scrolling to the documentation of tailwind I got my fault and then install tailwind using following command
-```bash
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
+## How you also can run this project on your own machine
+If you interested to run this projects on your own local machine. Welcome bro!! here are the step by step guideline to run this project.
+you have run following commands only.
+
+First Clone the project
+```sh
+git clone --depth=1 https://github.com/zihad18/Learn-React-with-TapaScript.git
+```
+Go to the cloned file directory
+```sh
+cd Learn-React-with-TapaScript
+```
+Initialize sparse checkout in cone mode:
+```sh
+git sparse-checkout init --cone
+```
+Set the sparse-checkout to specific tasks:
+```sh
+git sparse-checkout set Task_1/task1
+cd Task_2/tapaScript_cars
+```
+
+Install the necessary modules: 
+```sh
+npm install
+
+```
+Finally, run the project:
+```sh
+npm run dev
+```
+## All the Diagram
+> UI Design ![UI design](public/images/UserUI.png) 
+You can explore the figma file of this design [Figma Design](https://www.figma.com/design/MuFAYuptrgEh9vGnMomYUK/TapaScript-Task4?node-id=1-2&t=CGRBRXuehjxKzWMM-1)
+
+> UI breakdown [UI Breakdown](public/images/UIbreakdown.png) 
+
+> Component Hierarchy [Component hierarchy](public/images/componentHierarchy.png)
+
+## Live project
+[View Live Project](https://learn-react-with-tapa-script-git-main-zihad18s-projects.vercel.app/)
+
 
