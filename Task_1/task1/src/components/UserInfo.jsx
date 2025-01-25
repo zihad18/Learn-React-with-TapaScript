@@ -53,8 +53,10 @@ function UserInfo() {
     return (
       <div>
         <Header />
-        <UserStatus userNumber={users.length} />
-        <AddUser addUser={addNewUser} />
+        <div className='flex justify-between'>
+          <UserStatus userNumber={users.length} />
+          <AddUser addUser={addNewUser} />
+        </div>
         <UserList users={users} />
       </div>
     )
